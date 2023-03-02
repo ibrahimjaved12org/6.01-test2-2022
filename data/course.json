@@ -1,0 +1,29 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "hehe"
+  },
+  "course_image": {
+    "content": "",
+    "website": "hehe"
+  },
+  "course_title": "hehe-course",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "104",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "hehe"
+  },
+  "learning_resource_types": [],
+  "site_uid": "50896bda-3357-4b85-9511-17a5b4c1fd46",
+  "site_short_id": "6.01-test2-2022"
+}
